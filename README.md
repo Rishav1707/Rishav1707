@@ -1,4 +1,4 @@
-![Images](https://miro.medium.com/max/640/0*4ehgb0-UK-qEME11.png)
+![open source-min](https://user-images.githubusercontent.com/97666287/207317620-df845f6a-393d-421e-b470-5621bb5710da.png)
 ## Hi👋, I'm Rishav Raj
 - 💥I’m interested in making Websites and Web-designing.
 - 👨🏻‍💻I’m currently learning DSA(C++) and JavaScript.
