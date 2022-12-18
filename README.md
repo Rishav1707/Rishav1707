@@ -19,6 +19,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav1707&theme=dark&layout=compact)](https://github.com/Rishav1707/github-readme-stats) -->
 </br>
 <div align='center' width="6rem">
-    <img   width="450px" src="https://github-readme-stats.vercel.app/api?username=Rishav1707&theme=dark&show_icons=true"/>
-    <img  width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=Rishav1707&theme=dark&border_radius=5" alt= "stats"/>
+    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=Rishav1707&theme=dark&show_icons=true"/>
+    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Rishav1707&theme=dark&border_radius=5" alt= "stats"/>
 </div>
