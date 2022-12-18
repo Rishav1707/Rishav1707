@@ -9,3 +9,7 @@
 - [LinkedIn](https://www.linkedin.com/in/rishav-raj-aa7256228/)
 - [Twitter](https://twitter.com/RishavRaj17Jul)
 - [Instagram](https://www.instagram.com/harmony2_my_ear/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishav1707&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav1707&theme=dark&layout=compact)](https://github.com/Rishav1707/github-readme-stats)
