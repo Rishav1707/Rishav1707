@@ -18,7 +18,7 @@
 
 <!-- Intro -->
 - 💥I’m interested in making Websites and Web-designing.
-- ✔️I’m currently learning React JS and DevOps.
+- ⚡I’m currently learning React JS and DevOps.
 - 🎯Always ready to learn something new.
 - 🧑‍🤝‍🧑I’m looking to collaborate on Open Source projects and Communities that will brushup my skills.
 <hr>
