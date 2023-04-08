@@ -27,8 +27,8 @@
 <h3 align="center"><b>Connect with me</b> :handshake:</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rishav1707&label=Profile%20views&color=0e75b6&style=flat" alt="Rishav1707" /> </p>
 <div align="center">
-<a href="https://www.linkedin.com/in/rishav-raj-aa7256228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/RishavRaj17Jul"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/><a>
+<a href="https://www.linkedin.com/in/rishavrtwt/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/rishavrtwt"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/><a>
 <a href="https://www.instagram.com/harmony2_my_ear/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
  <hr>
