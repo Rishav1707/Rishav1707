@@ -3,7 +3,7 @@
   <img width="600px" src="https://user-images.githubusercontent.com/97666287/207317620-df845f6a-393d-421e-b470-5621bb5710da.png" />
 </div>
 
-<div align="center" title="Who am I?"> 
+<div align="center" title="My introduction"> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Rishav+Raj;React+Developer⚡;Open+Source+Enthusiast🥑;Explorer💥)](https://git.io/typing-svg)
 
